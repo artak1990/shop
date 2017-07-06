@@ -45,7 +45,6 @@
                         <li>
                             <a href="#">Dropdown</a>
                         </li>
-                        <li><a href="#">Log out</a></li>
                     </ul>
                 </li>
                 <li class="nav-item"><a href="#">Wish</a></li>
